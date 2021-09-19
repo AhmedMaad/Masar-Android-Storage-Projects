@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aliens App</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="insert_activity">Insert Activity</string>
+    <string name="list_activity">List Activity</string>
+    <string name="edit_activity">Edit Activity</string>
+    <string name="insert_new_alien">Insert new Alien</string>
+    <string name="list_update_delete_aliens">List/Update/Delete Aliens</string>
+    <string name="enter_alien_name">Enter Alien name</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="insert">insert</string>
+    <string name="alien_inserted">Alien Inserted Successfully</string>
+    <string name="alien_updated">Alien Updated Successfully</string>
+    <string name="alien_deleted">Alien Deleted Successfully</string>
+</resources>
